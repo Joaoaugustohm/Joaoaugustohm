@@ -86,20 +86,16 @@ Aprendo na prática, criando projetos e evoluindo de forma constante dentro da t
 
 ### 📊 Estatísticas
 
-<p>
+<div align="left">
   <img 
-    align="left" 
     alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
+    height="180" 
     src="https://github-readme-stats.vercel.app/api?username=Joaoaugustohm&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaoaugustohm&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <img 
+    alt="Top Langs" 
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaoaugustohm&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
-</p>
+</div>
