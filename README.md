@@ -1,4 +1,4 @@
-# 👩🏻‍💻 João Augusto
+#  João Augusto
 
 **`Desenvolvedor`**
 
@@ -86,16 +86,9 @@ Aprendo na prática, criando projetos e evoluindo de forma constante dentro da t
 
 ### 📊 Estatísticas
 
-<div align="left">
-  <img 
-    alt="GitHub Stats" 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api?username=joaoaugustohm&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+## 📊 Estatísticas
 
-  <img 
-    alt="Top Langs" 
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoaugustohm&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</div>
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Joaoaugustohm&show_icons=true&theme=tokyonight&include_all_commits=true)
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Joaoaugustohm&layout=compact&theme=tokyonight)
+
