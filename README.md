@@ -84,11 +84,4 @@ Aprendo na prática, criando projetos e evoluindo de forma constante dentro da t
 <br/><br/>
 
 
-### 📊 Estatísticas
-
-## 📊 Estatísticas
-
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Joaoaugustohm&show_icons=true&theme=tokyonight&include_all_commits=true)
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Joaoaugustohm&layout=compact&theme=tokyonight)
 
